@@ -1,4 +1,4 @@
-<p align="center">Software Engineer</p>
+*Software Engineer*
 
 **PHP • Laravel • JS/TS • Node.js • Go**  
 
